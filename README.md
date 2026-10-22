@@ -21,4 +21,4 @@ JavaScript · Node.js · OAuth 2.0 · REST API
 
 ### 🤖 How it was built
 
-Built through **vibe coding**: I came up with the idea, wrote the prompts, defined the parameters and requirements, and tested the result until the project worked correctly. The code was written with the help of AI (Claude).
+I designed the idea, defined the requirements and parameters, and tested the project until it worked correctly. AI (Claude) helped me with the coding.
