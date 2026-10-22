@@ -21,4 +21,4 @@ JavaScript · Node.js · OAuth 2.0 · REST API
 
 ### 🤖 How it was built
 
-I designed the idea, defined the requirements and parameters, and tested the project until it worked correctly. AI (Claude) helped me with the coding.
+Built by integrating **AI and AI agents** into the development process. I designed the solution, defined the requirements and parameters, and tested the project until it worked correctly.
